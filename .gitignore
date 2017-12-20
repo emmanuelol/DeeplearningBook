@@ -1,0 +1,4 @@
+Udacity/notMNIST_large/
+Udacity/notMNIST_small/
+*.tar.gz
+*.pickle
