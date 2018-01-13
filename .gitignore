@@ -1,5 +1,19 @@
 Udacity/notMNIST_large/
 Udacity/notMNIST_small/
+Tensorflow cb/graph2/
+Tensorflow cb/graphs/
+Tensorflow cb/graphs2/
+Tensorflow cb/MNIST_data/
 *.tar.gz
 *.pickle
 *.zip
+<<<<<<< HEAD
+*.csv
+*.xls
+*.gz
+*.png
+*.jpg
+=======
+>>>>>>> parent of 6811e62... chapter 3
+*.csv
+*.DESKTOP-3TK5POV
