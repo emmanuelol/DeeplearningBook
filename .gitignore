@@ -17,3 +17,4 @@ Tensorflow cb/MNIST_data/
 >>>>>>> parent of 6811e62... chapter 3
 *.csv
 *.DESKTOP-3TK5POV
+*.hdf5
