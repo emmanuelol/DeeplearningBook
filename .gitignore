@@ -19,3 +19,5 @@ Tensorflow cb/MNIST_data/
 *.DESKTOP-3TK5POV
 *.hdf5
 *.xml
+*.devel
+*.txt
